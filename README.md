@@ -18,6 +18,8 @@ This repository collects papers related to **knowledge graphs (KGs)**,  **Causal
 ### LLM and KG
 
 #### Surveys
+- \[[arxiv](https://arxiv.org/pdf/2309.01219)\] A Survey on Hallucination in Large Language Models
+`2023.09`
 - \[[arxiv](https://arxiv.org/pdf/2309.17122)\] Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle? `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2309.01029)\] Explainability for Large Language Models: A Survey. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2308.14217)\] Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact. `2023.08`
