@@ -1,11 +1,16 @@
 # KG-LLM-CA-Papers
 
-This repository collects papers related to **knowledge graphs (KGs)**,  **Causal Inference (CA)** and **large language models (LLMs)**.
+This repository collects papers related to **knowledge graphs (KGs)**,  **Causal Inference (CI)** and **large language models (LLMs)**.
 
    
 ## Content
   
 - [Papers](#papers)
+  - [LLM](#llm)
+  - [LLM and CI](#llm-and-ci)
+    - [Surveys](#surveys)
+    - [Methods](#methods)
+    - [Resources](#resources)
   - [LLM and KG](#llm-and-kg)
     - [Surveys](#surveys)
     - [Methods](#methods)
@@ -15,13 +20,35 @@ This repository collects papers related to **knowledge graphs (KGs)**,  **Causal
 
 ##  Papers
 
+### LLM
+
+- \[[arxiv](https://arxiv.org/pdf/2309.01219)\] A Survey on Hallucination in Large Language Models
+`2023.09`
+
+- \[[arxiv](https://arxiv.org/abs/2309.01029)\] Explainability for Large Language Models: A Survey. `2023.09`
+
+### LLM and CI
+
+#### Surveys
+
+- \[[arxiv](https://arxiv.org/abs/2305.00050)\] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality. `2023.04`
+
+- \[[arxiv](https://arxiv.org/abs/2304.05524)\] Understanding Causality with Large Language Models: Feasibility and Opportunities. `2023.04`
+
+
+#### Methods
+
+- \[[arxiv](https://arxiv.org/abs/2303.05279)\] Can large language models build causal graphs? `2023.04`
+
+- \[[arxiv](https://arxiv.org/abs/2301.12473)\] Large Language Models for Biomedical Causal Graph Construction? `2023.01`
+
+#### Resources
+
 ### LLM and KG
 
 #### Surveys
-- \[[arxiv](https://arxiv.org/pdf/2309.01219)\] A Survey on Hallucination in Large Language Models
-`2023.09`
+
 - \[[arxiv](https://arxiv.org/pdf/2309.17122)\] Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle? `2023.09`
-- \[[arxiv](https://arxiv.org/abs/2309.01029)\] Explainability for Large Language Models: A Survey. `2023.09`
 - \[[arxiv](https://arxiv.org/abs/2308.14217)\] Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact. `2023.08`
 - \[[arxiv](https://arxiv.org/abs/2308.06374)\] Large Language Models and Knowledge Graphs: Opportunities and Challenges. `2023.08`
 - \[[arxiv](https://arxiv.org/pdf/2306.08302)\] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Repo](https://github.com/RManLuo/Awesome-LLM-KG)\]
@@ -84,8 +111,6 @@ This repository collects papers related to **knowledge graphs (KGs)**,  **Causal
 - \[[arxiv](https://arxiv.org/abs/2305.16755)\] Can large language models generate salient negative statements? `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.15066)\] GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking. `2023.05`
 - \[[arxiv](https://arxiv.org/abs/2305.01157)\] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05`  \[[Repo](https://github.com/Akirato/LLM-KG-Reasoning/tree/main)\]
-- \[[arxiv](https://arxiv.org/abs/2305.00050)\] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality. `2023.04`
-- \[[arxiv](https://arxiv.org/abs/2303.05279)\] Can large language models build causal graphs? `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.05774)\] Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.11116)\] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2304.02711)\] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt)\]
