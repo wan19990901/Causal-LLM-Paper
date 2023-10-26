@@ -35,6 +35,17 @@ This repository collects papers related to **knowledge graphs (KGs)**,  **Causal
 
 - \[[arxiv](https://arxiv.org/abs/2304.05524)\] Understanding Causality with Large Language Models: Feasibility and Opportunities. `2023.04`
 
+### LLM for CI
+
+#### Methods
+
+- \[[arxiv](https://arxiv.org/abs/2303.05279)\] Can large language models build causal graphs? `2023.04`
+
+- \[[arxiv](https://arxiv.org/abs/2301.12473)\] Large Language Models for Biomedical Causal Graph Construction? `2023.01`
+
+#### Resources
+
+### Causality for LLM
 
 #### Methods
 
