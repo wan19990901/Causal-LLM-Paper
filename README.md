@@ -1,4 +1,4 @@
-# KG-LLM-CA-Papers
+# LLM-Causality-Papers
 
 This repository collects papers related to  **Causality (CI)** and **large language models (LLMs)**.
 
@@ -47,6 +47,8 @@ https://ieeecai.org/2024/wp-content/pdfs/540900a460/540900a460.pdf
 
 
 #### LLM for Causal Discovery
+
+- \[[arxiv](https://arxiv.org/abs/2405.01744)\] ALCM: Autonomous LLM-Augmented Causal Discovery Framework `2024.05`
 
 https://dl.acm.org/doi/abs/10.1145/3665939.3665968
 
