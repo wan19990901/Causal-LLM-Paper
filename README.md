@@ -7,14 +7,11 @@ This repository collects papers related to  **Causality (CI)** and **large langu
   
 - [Papers](#papers)
   - [LLM](#llm)
-  - [LLM and CI](#llm-and-ci)
+  - [Causality](#ci)
+  - [LLM and Causality](#llm-and-ci)
     - [Surveys](#surveys)
-    - [Methods](#methods)
-    - [Resources](#resources)
-  - [LLM and KG](#llm-and-kg)
-    - [Surveys](#surveys)
-    - [Methods](#methods)
-    - [Resources](#resources)
+    - [LLM for Causality](#llm4ci)
+    - [Causality for LLM](#ci4llm)
 
 ---
 
@@ -31,7 +28,7 @@ This repository collects papers related to  **Causality (CI)** and **large langu
 
 #### Surveys
 
-
+- \[[arxiv](https://arxiv.org/abs/2403.09606)\] Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey. `2023.04`
 
 - \[[arxiv](https://arxiv.org/abs/2305.00050)\] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality. `2023.04`
 
@@ -40,20 +37,16 @@ This repository collects papers related to  **Causality (CI)** and **large langu
 
 ### LLM for Causality
 
-#### LLM for Causal Reasoning
+#### LLM for Causal Inference
 
-- \[[arxiv](https://arxiv.org/abs/2305.07375)\] Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2407.07018)\] Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation. `2024.7`
 
-- \[[arxiv](https://arxiv.org/abs/2308.13067)\] Causal Parrots: Large Language Models May Talk Causality But Are Not Causal `2023.05`
-
-- \[[arxiv](https://arxiv.org/abs/2305.19213)\] The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code `2023.05`
-
-- \[[arxiv](https://arxiv.org/abs/2304.03439)\] Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4 `2023.05`
-
-- \[[arxiv](https://arxiv.org/abs/2112.11941)\] CRASS: A Novel Data Set and Benchmark to Test Counterfactual Reasoning of Large Language Models `2022.10`
+https://ieeecai.org/2024/wp-content/pdfs/540900a460/540900a460.pdf
 
 
 #### LLM for Causal Discovery
+
+https://dl.acm.org/doi/abs/10.1145/3665939.3665968
 
 - \[[arxiv](https://arxiv.org/abs/2307.02390)\] Causal Discovery with Language Models as Imperfect Experts `2023.06`
 
@@ -68,23 +61,34 @@ This repository collects papers related to  **Causality (CI)** and **large langu
 - \[[arxiv](https://arxiv.org/abs/2012.05453)\] Causal BERT : Language models for causality detection between events expressed in text? `2021.01`
 
 
-#### Resources
-
 ### Causality for LLM
 
-#### Causality for Prompting
+
+#### Causal Foundation Model
+
+https://openreview.net/forum?id=cFDaYtZR4u
+
+#### Causal Reasoning for LLM
+
+- \[[arxiv](https://arxiv.org/abs/2305.19213)\] The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code `2023.05`
+
+- \[[arxiv](https://arxiv.org/abs/2304.03439)\] Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4 `2023.05`
+
+- \[[arxiv](https://arxiv.org/abs/2112.11941)\] CRASS: A Novel Data Set and Benchmark to Test Counterfactual Reasoning of Large Language Models `2022.10`
+
+- \[[arxiv](https://arxiv.org/abs/2308.13067)\] Causal Parrots: Large Language Models May Talk Causality But Are Not Causal `2023.05`
+
+- \[[arxiv](https://arxiv.org/abs/2305.07375)\] Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation. `2023.10`
+
+#### Causality for Trustyworthy LLM
 
 - \[[arxiv](https://arxiv.org/abs/2307.09813)\] DAPrompt: Deterministic Assumption Prompt Learning for Event Causality Identification `2023.07`
 
 - \[[arxiv](https://arxiv.org/abs/2305.01876)\] Causality-aware Concept Extraction based on Knowledge-guided Prompting `2023.05`
 
-#### Causality for Debias
-
 https://aclanthology.org/2023.acl-long.232/
 
 https://ojs.aaai.org/index.php/AAAI/article/view/21389
-
-#### Causality for Interpretbility
 
 - \[[arxiv](https://arxiv.org/abs/2310.00603)\] Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals `2023.10`
 
