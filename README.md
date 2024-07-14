@@ -39,9 +39,11 @@ This repository collects papers related to  **Causality (CI)** and **large langu
 
 #### LLM for Causal Inference
 
-- \[[arxiv](https://arxiv.org/abs/2407.07018)\] Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation. `2024.7`
+- \[[arxiv](https://arxiv.org/abs/2407.07018)\] End-To-End Causal Effect Estimation from Unstructured Natural Language Data. `2024.7`
 
 https://ieeecai.org/2024/wp-content/pdfs/540900a460/540900a460.pdf
+
+- \[[arxiv](https://arxiv.org/abs/2212.10534)\] DISCO: Distilling Counterfactuals with Large Language Models `2023.06`
 
 
 #### LLM for Causal Discovery
