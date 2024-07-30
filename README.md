@@ -52,6 +52,10 @@ https://ieeecai.org/2024/wp-content/pdfs/540900a460/540900a460.pdf
 
 https://dl.acm.org/doi/abs/10.1145/3665939.3665968
 
+- \[[arxiv](https://arxiv.org/abs/2402.01207)\] Efficient Causal Graph Discovery Using Large Language Models `2024.02`
+  
+- \[[arxiv](https://arxiv.org/abs/2402.01454)\] Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach `2024.02`
+  
 - \[[arxiv](https://arxiv.org/abs/2307.02390)\] Causal Discovery with Language Models as Imperfect Experts `2023.06`
 
 - \[[arxiv](https://arxiv.org/abs/2306.05836)\] Can Large Language Models Infer Causation from Correlation? `2023.06`
