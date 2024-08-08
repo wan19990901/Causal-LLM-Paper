@@ -28,7 +28,9 @@ This repository collects papers related to  **Causality (CI)** and **large langu
 
 #### Surveys
 
-- \[[arxiv](https://arxiv.org/abs/2403.09606)\] Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey. `2023.04`
+- \[[arxiv](https://arxiv.org/abs/2403.09606)\] Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey. `2024.03`
+
+- \[[arxiv](https://arxiv.org/abs/2301.12351)\] Emerging Synergies in Causality and Deep Generative Models: A Survey. `2023.09`
 
 - \[[arxiv](https://arxiv.org/abs/2305.00050)\] Causal Reasoning and Large Language Models: Opening a New Frontier for Causality. `2023.04`
 
@@ -40,6 +42,8 @@ This repository collects papers related to  **Causality (CI)** and **large langu
 #### LLM for Causal Inference
 
 - \[[arxiv](https://arxiv.org/abs/2407.07018)\] End-To-End Causal Effect Estimation from Unstructured Natural Language Data. `2024.7`
+
+- \[[arxiv](https://arxiv.org/abs/2310.00809)\] Towards Causal Foundation Model: on Duality between Causal Inference and Attention. `2024.6`
 
 - \[[arxiv](https://arxiv.org/abs/2310.15117)\] Causal Inference Using LLM-Guided Discovery. `2023.10`
 
@@ -76,11 +80,17 @@ We introduce a universal set of prompts designed to extract causal graphs from g
 
 - \[[arxiv](https://arxiv.org/abs/2303.05279)\] Can large language models build causal graphs? `2023.04`
 
+- \[[arxiv](https://arxiv.org/abs/2301.13819)\] Causal-Discovery Performance of ChatGPT in the context of Neuropathic Pain Diagnosis `2023.02`
+
 - \[[arxiv](https://arxiv.org/abs/2301.12473)\] Large Language Models for Biomedical Causal Graph Construction? `2023.01`
 
 - \[[arxiv](https://arxiv.org/abs/2206.10591)\] Can Foundation Models Talk Causality? `2022.06`
 
 - \[[arxiv](https://arxiv.org/abs/2012.05453)\] Causal BERT : Language models for causality detection between events expressed in text? `2021.01`
+
+#### LLM for Causal Structucal Learning
+
+- \[[arxiv](https://arxiv.org/abs/2311.11689)\] Causal Structure Learning Supervised by Large Language Model `2023.11`
 
 
 ### Causality for LLM
@@ -88,9 +98,11 @@ We introduce a universal set of prompts designed to extract causal graphs from g
 
 #### Causal Foundation Model
 
-https://openreview.net/forum?id=cFDaYtZR4u
+
 
 #### Causal Evaluation for LLM
+
+- \[[arxiv](https://arxiv.org/abs/2401.00139)\] Is Knowledge All Large Language Models Needed for Causal Reasoning? `2024.06`
 
 - \[[arxiv](https://arxiv.org/abs/2406.19131)\] CELLO: Causal Evaluation of Large Vision-Language Models `2024.06`
 
@@ -100,24 +112,28 @@ Causal reasoning is fundamental to human intelligence and crucial for effective 
 
 Causality reveals fundamental principles behind data distributions in real-world scenarios, and the capability of large language models (LLMs) to understand causality directly impacts their efficacy across explaining outputs, adapting to new evidence, and generating counterfactuals. With the proliferation of LLMs, the evaluation of this capacity is increasingly garnering attention. However, the absence of a comprehensive benchmark has rendered existing evaluation studies being straightforward, undiversified, and homogeneous. To address these challenges, this paper proposes a comprehensive benchmark, namely CausalBench, to evaluate the causality understanding capabilities of LLMs. Originating from the causal research community, CausalBench encompasses three causal learning-related tasks, which facilitate a convenient comparison of LLMs' performance with classic causal learning algorithms. Meanwhile, causal networks of varying scales and densities are integrated in CausalBench, to explore the upper limits of LLMs' capabilities across task scenarios of varying difficulty. Notably, background knowledge and structured data are also incorporated into CausalBench to thoroughly unlock the underlying potential of LLMs for long-text comprehension and prior information utilization. Based on CausalBench, this paper evaluates nineteen leading LLMs and unveils insightful conclusions in diverse aspects. Firstly, we present the strengths and weaknesses of LLMs and quantitatively explore the upper limits of their capabilities across various scenarios. Meanwhile, we further discern the adaptability and abilities of LLMs to specific structural networks and complex chain of thought structures. Moreover, this paper quantitatively presents the differences across diverse information sources and uncovers the gap between LLMs' capabilities in causal understanding within textual contexts and numerical domains.
 
+- \[[arxiv](https://arxiv.org/abs/2305.07375)\] Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation. `2023.10`
+
 - \[[arxiv](https://arxiv.org/abs/2306.05836)\] Can Large Language Models Infer Causation from Correlation? `2023.06`
 
 - \[[arxiv](https://arxiv.org/abs/2306.05836)\] CLadder: Assessing Causal Reasoning in Language Models `2023.06`
 
 The ability to perform causal reasoning is widely considered a core feature of intelligence. In this work, we investigate whether large language models (LLMs) can coherently reason about causality. Much of the existing work in natural language processing (NLP) focuses on evaluating commonsense causal reasoning in LLMs, thus failing to assess whether a model can perform causal inference in accordance with a set of well-defined formal rules. To address this, we propose a new NLP task, causal inference in natural language, inspired by the "causal inference engine" postulated by Judea Pearl et al. We compose a large dataset, CLadder, with 10K samples: based on a collection of causal graphs and queries (associational, interventional, and counterfactual), we obtain symbolic questions and ground-truth answers, through an oracle causal inference engine. These are then translated into natural language. We evaluate multiple LLMs on our dataset, and we introduce and evaluate a bespoke chain-of-thought prompting strategy, CausalCoT. We show that our task is highly challenging for LLMs, and we conduct an in-depth analysis to gain deeper insights into the causal reasoning abilities of LLMs. Our data is open-sourced at this https URL, and our code can be found at this https URL.
 
-
 - \[[arxiv](https://arxiv.org/abs/2305.19213)\] The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code `2023.05`
 
 - \[[arxiv](https://arxiv.org/abs/2304.03439)\] Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4 `2023.05`
 
-- \[[arxiv](https://arxiv.org/abs/2112.11941)\] CRASS: A Novel Data Set and Benchmark to Test Counterfactual Reasoning of Large Language Models `2022.10`
-
 - \[[arxiv](https://arxiv.org/abs/2308.13067)\] Causal Parrots: Large Language Models May Talk Causality But Are Not Causal `2023.05`
 
-- \[[arxiv](https://arxiv.org/abs/2305.07375)\] Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation. `2023.10`
+- \[[arxiv](https://arxiv.org/abs/2302.10198)\] Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT `2023.3`
 
-#### Causality for Trustyworthy LLM
+- \[[arxiv](https://arxiv.org/abs/2206.10591)\]  Can Foundation Models Talk Causality? `2022.12`
+
+- \[[arxiv](https://arxiv.org/abs/2112.11941)\] CRASS: A Novel Data Set and Benchmark to Test Counterfactual Reasoning of Large Language Models `2022.10`
+
+
+#### Causality for Trustyworthy (better) LLM
 
 - \[[arxiv](https://arxiv.org/abs/2307.09813)\] DAPrompt: Deterministic Assumption Prompt Learning for Event Causality Identification `2023.07`
 
