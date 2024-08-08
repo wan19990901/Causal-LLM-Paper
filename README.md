@@ -94,6 +94,8 @@ We introduce a universal set of prompts designed to extract causal graphs from g
 
 - \[[arxiv](https://arxiv.org/abs/2306.07032)\] Mitigating Prior Errors in Causal Structure Learning: Towards LLM driven Prior Knowledge `2023.6`
 
+- \[[arxiv](https://arxiv.org/abs/2102.00473)\] The impact of prior knowledge on causal structure learning `2023.3`
+
 
 ### Causality for LLM
 
