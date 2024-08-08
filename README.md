@@ -92,13 +92,10 @@ We introduce a universal set of prompts designed to extract causal graphs from g
 
 - \[[arxiv](https://arxiv.org/abs/2311.11689)\] Causal Structure Learning Supervised by Large Language Model `2023.11`
 
+- \[[arxiv](https://arxiv.org/abs/2306.07032)\] Mitigating Prior Errors in Causal Structure Learning: Towards LLM driven Prior Knowledge `2023.6`
+
 
 ### Causality for LLM
-
-
-#### Causal Foundation Model
-
-
 
 #### Causal Evaluation for LLM
 
@@ -145,8 +142,6 @@ https://ojs.aaai.org/index.php/AAAI/article/view/21389
 
 - \[[arxiv](https://arxiv.org/abs/2310.00603)\] Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals `2023.10`
 
-
-#### Discovery of LLM's Causal Capabilities
 
 
 
